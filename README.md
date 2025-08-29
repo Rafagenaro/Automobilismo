@@ -28,7 +28,7 @@ Principais colunas:
 
 ## Ferramentas e Bibliotecas
 
-A análise foi conduzida em **Python 3.x**, utilizando:  
+A análise foi conduzida em Python, utilizando:  
 
 - **Pandas** → manipulação e limpeza dos dados  
 - **NumPy** → cálculos numéricos  
